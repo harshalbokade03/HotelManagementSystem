@@ -1,0 +1,28 @@
+.message{
+    color: aliceblue;
+    font-size: 30px;
+}
+body{
+    background-color: antiquewhite;
+}
+td{
+	background-color: lightgrey;
+	font-weight: bold;
+    color: green;
+}
+a{
+    color: brown;
+}
+.image{
+    justify-items: center;
+    text-align:center
+}
+h2{
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+    padding-left: 4cm;
+    padding-right: 4cm;
+}

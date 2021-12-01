@@ -1,0 +1,53 @@
+h2{
+	font-style: italic;
+	color: brown;
+	padding-right: 8cm;
+	padding-left: 8cm;
+	
+}
+h4{
+	color: brown;
+	padding-right: 8cm;
+	padding-left: 8cm;
+	align: center;
+}
+h3{
+	align: center;
+	padding-right: 8cm;
+	padding-left: 8cm;
+}
+body{
+	background-color: antiquewhite;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+}
+
+img{
+	padding-right: 2em;
+	padding-left: 2em;
+	border-radius: 18%;
+	text-align: center;
+}
+
+p{
+	font-style: italic;
+	color: black;
+	padding-right: 8cm;
+	padding-left: 8cm;
+}
+
+div{
+	padding-right: 8em;
+	padding-left: 8em;
+}
+
+.center{
+	text-align: center;
+}
+button{
+	color: white;
+	background-color: brown;
+	height: 40px;
+	width: 100px;
+}

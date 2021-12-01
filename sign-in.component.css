@@ -1,0 +1,111 @@
+.signin{
+	background-size : cover ;
+	background-position: center ;
+
+}
+
+
+.container{
+	
+	align-content: center;
+	background-color: rgb(0,0,0,0.6);
+	text-align: center;
+	border: 2px solid round ;
+	width : 30%;
+	
+	margin-left: 35%;
+}
+
+.tbl{
+	float : right;
+	margin-left: 50%;
+	white-space: initial;
+}
+
+.signup{
+	background-color: blue;
+	border-radius: 5px 5px 5px 5px;
+	width : 15%;
+	height : 30px;
+}
+
+
+.header{
+	background-color: rgb(0,0,0,0.8);
+	
+	
+}
+
+.bck{
+	float : right ;
+}
+
+.btnsign{
+	 color : white;
+	 background-color: green;
+	 border-radius: 20px 20px 20px 20px;
+	 cursor : pointer;
+	 width : 25%;
+	height : 30px;
+
+}
+
+.btnsign:hover {
+	border-radius: 5%;
+	background-color : blue;
+}
+
+
+.hom1{
+	 color : white;
+	 background-color: green;
+	 border-radius: 10px 10px 10px 10px;
+	 cursor : pointer;
+	 width : 150% ;
+	height : 35px;
+	margin-left : 1790%;
+}
+.hom1:hover {
+	border-radius: 10%;
+	background-color : red;
+	
+}
+
+
+.hom2{
+	 color : white;
+	 background-color: green;
+	 border-radius: 10px 10px 10px 10px;
+	 cursor : pointer;
+	 width : 140% ;
+	height : 35px;
+	margin-left : 1475%;
+	
+}
+.hom2:hover {
+	border-radius: 10%;
+	background-color : red;
+}
+
+
+
+.hom3{
+	 color : white;
+	 background-color: green;
+	 border-radius: 10px 10px 10px 10px;
+	 cursor : pointer;
+	 width : 140% ;
+	height : 35px;
+	margin-left : 1250%;
+	
+}
+.hom3:hover {
+	border-radius: 10%;
+	background-color : red;
+}
+
+.footer{
+	width : 100% ;
+	background-color: rgb(0,0,0,0.8);
+	color : white ;
+}

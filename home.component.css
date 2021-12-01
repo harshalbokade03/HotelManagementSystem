@@ -1,0 +1,43 @@
+a{
+	color: darkblue;
+	text-emphasis-style: bold;
+	text-align: left;
+}
+
+h1{
+	color:darkgreen;
+	text-align: center;
+}
+
+h3{
+	color:darkred;
+}
+
+h2{
+	color:darkgoldenrod;
+}
+.center {
+  display: flex;
+  justify-content: center;
+ 
+}
+.center1{
+	 justify-content: center;
+	 text-align: justify;
+}
+.dis{
+	text-align: justify;
+	text-decoration-color: darkgoldenrod;
+}
+.cl{
+	color: darkred;
+	text : bold;
+}
+
+.new{
+	text-align: center;
+}
+body{
+	padding-left: 3cm;
+	padding-right: 3cm;
+}
